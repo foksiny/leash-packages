@@ -1,1 +1,10 @@
-{}
+{
+  "libraries": {
+    "vecmath": {
+      "repo": "https://github.com/foksiny/vecmath.git",
+      "description": "Vector Math Library",
+      "author": "foksiny",
+      "version": "0.1.0"
+    }
+  }
+}
